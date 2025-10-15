@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Resume</title>
+  <title>Hafeez K H</title>
   <style>
     body {
       font-family: 'Poppins', sans-serif;
@@ -88,7 +88,7 @@
   <div class="container">
     <header>
       <h1>Your Name</h1>
-      <p>Email: yourname@email.com | Phone: +91 9876543210 | 
+      <p>Email: hafeez12kh@gmail.com.com | Phone: +91 9400182500 | 
          <a href="https://github.com/yourusername" target="_blank">GitHub</a>
       </p>
     </header>
@@ -115,8 +115,8 @@
     <section>
       <h2>Education</h2>
       <ul>
-        <li><strong>Master of Computer Applications (MCA)</strong> — XYZ University (2023 - 2025)</li>
-        <li><strong>Bachelor of Computer Science</strong> — ABC College (2020 - 2023)</li>
+        <li><strong>Master of Computer Applications (MCA)</strong> — DHSGU  (2024 - 2026)</li>
+        <li><strong>Bachelor of Computer Science</strong> — Mary matha arts and science college mananthavady(2021 - 2024)</li>
       </ul>
     </section>
 
@@ -131,14 +131,14 @@
     <section>
       <h2>Experience</h2>
       <ul>
-        <li><strong>Intern - Web Developer</strong> — Techno Park, Kerala (June 2024 - Sept 2024)
-          <br>Developed web interfaces and assisted in backend development using PHP and MySQL.
+        <li><strong>Intern - Web Developer</strong> — Softronic , Kerala (June 2023- Sept 2023)
+          <br>Developed web interfaces and assisted in backend development using Python django and MySQL.
         </li>
       </ul>
     </section>
 
     <footer>
-      © 2025 Your Name. All Rights Reserved.
+      © 2025 Hafeez. All Rights Reserved.
     </footer>
   </div>
 
