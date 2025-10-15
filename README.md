@@ -87,7 +87,7 @@
 
   <div class="container">
     <header>
-      <h1>Your Name</h1>
+      <h1> Hafeez K H</h1>
       <p>Email: hafeez12kh@gmail.com.com | Phone: +91 9400182500 | 
          <a href="https://github.com/yourusername" target="_blank">GitHub</a>
       </p>
