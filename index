@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
+        .container { max-width: 700px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);}
+        .photo { float: right; width: 150px; height: 150px; object-fit: cover; border-radius: 75px; margin-left: 30px; }
+        h1 { margin-top: 0; }
+        section { margin-bottom: 32px; }
+        .details { margin-bottom: 18px; }
+        .label { font-weight: bold; width: 120px; display: inline-block; }
+        .clear { clear: both; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="your-photo.jpg" alt="Your Name" class="photo">
+        <h1>Your Name</h1>
+        <div class="details">
+            <span class="label">Email:</span> your.email@example.com <br>
+            <span class="label">Phone:</span> +1 234 567 8901 <br>
+            <span class="label">Location:</span> City, Country
+        </div>
+        <div class="clear"></div>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Degree Name</strong> - University Name (Year)</li>
+                <li><strong>Another Degree</strong> - Another University (Year)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Experience</h2>
+            <ul>
+                <li><strong>Job Title</strong> - Company Name (Year-Year)<br>
+                    Brief description of your role and achievements.</li>
+                <li><strong>Another Job Title</strong> - Another Company (Year-Year)<br>
+                    Description of work and responsibilities.
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <li>Skill 3</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>
+                You can reach me through the email or phone listed above.
+            </p>
+        </section>
+    </div>
+</body>
+</html>
